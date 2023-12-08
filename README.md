@@ -28,11 +28,10 @@ https://drive.google.com/drive/folders/1GjJyjEVX8_yuP3Zb6uOsLBxQbe0L7Ed3
 Data format: Original format in MXD. It was then exported to Shapefile.
 Curation process: First assessed in ArcMap to identify all features. Then, we selected “scarp” and “deposits” and exported them as shapefiles. These feature data frames with area and volume information.
 
-[Draft only]
-
-
-* Slope:
+* Elevation and Topography:
 Slope characteristics indicate the terrain's steepness and help to identify areas prone to landslides based on their incline.
+
+Future analysis could include: 
 * Precipitation:
 Records of historical precipitation patterns, offering information on rainfall intensity and distribution in the region. Understanding rainfall patterns is crucial, as excessive rainfall often triggers landslides.
 * Groundwater table:
